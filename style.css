@@ -63,7 +63,7 @@ form ul {
     margin-bottom: 1.5rem;
 }
 
-form ul div {
+form ul li {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
